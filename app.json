@@ -1,5 +1,5 @@
 {
-    "name": "Arch Music Bot",
+    "name": "❛-𝗕𝗘𝗪𝗔𝗙𝗔᭄ [🚩] Ɽoboʈ 🎸",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
     "logo": "https://graph.org/file/5fc8dd23ea909c8818e65.jpg",
     "keywords": [
@@ -9,18 +9,18 @@
         "telegram-bot",
         "pyrogram",
         "ArchBots",
-        "ArchMusic"
+        "Bweafa Music"
     ],
     "stack": "container",
     "env": {
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "your_api_id_here",
+            "value": "➥🥺",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "your_api_hash_here",
+            "value": "➥🥀",
             "required": true
         },
         "AUTO_LEAVING_ASSISTANT": {
@@ -30,7 +30,7 @@
         },
         "BOT_TOKEN": {
             "description": "A Bot's token from Botfather",
-            "value": "your_bot_token_here",
+            "value": "➥❤️",
             "required": true
         },
         "MONGO_DB_URI": {
@@ -40,32 +40,32 @@
         },
         "MUSIC_BOT_NAME": {
             "description": "A name for your Music Bot. Please don't use ascii characters",
-            "value": "Arch Music Bot",
+            "value": "❛-𝗕𝗘𝗪𝗔𝗙𝗔᭄ [🚩] Ɽoboʈ 🎸",
             "required": true
         },
         "OWNER_ID": {
             "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be separated with a space.",
-            "value": "your_owner_id_here",
+            "value": "6277238293",
             "required": true
         },
         "STRING_SESSION": {
             "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-            "value": "your_string_session_here",
+            "value": "➥🍃",
             "required": true
         },
         "HEROKU_API_KEY": {
             "description": "Your Heroku account's API key",
-            "value": "",
+            "value": "➥🌦",
             "required": false
         },
         "HEROKU_APP_NAME": {
             "description": "Your heroku app/bot's name",
-            "value": "",
+            "value": "➥",
             "required": false
         },
         "LOG_GROUP_ID": {
             "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-            "value": "your_log_group_id_here",
+            "value": "-1001822336951",
             "required": true
         },
         "UPSTREAM_REPO": {
