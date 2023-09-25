@@ -1,7 +1,7 @@
 {
     "name": "Arch Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/3e72df6ef787df25f008e.jpg",
+    "logo": "https://graph.org/file/5fc8dd23ea909c8818e65.jpg",
     "keywords": [
         "python3",
         "telegram",
@@ -70,7 +70,7 @@
         },
         "UPSTREAM_REPO": {
             "description": "If you dont know this, Leave as it is",
-            "value": "https://github.com/ArchBots/ArchMusicBot",
+            "value": "https://github.com/KwsMusic/L2RNEWMusic.git",
             "required": true
         }
     },
