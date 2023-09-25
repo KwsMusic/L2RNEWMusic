@@ -2,9 +2,9 @@
 
 # Arch Music Bot <img src="https://img.shields.io/github/v/release/ArchBots/ArchMusic?color=green&logo=github&logoColor=red&style=social" alt="RELEASE">
 
-<img src="https://telegra.ph/file/3e72df6ef787df25f008e.jpg" align="middle" width="200" height="200"/>
+<img src="https://graph.org/file/5fc8dd23ea909c8818e65.jpg" align="middle" width="200" height="200"/>
 
-[Arohi Music Bot](https://t.me/UMIKO_CHAT_BOT) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[Bwf Music Bot](https://t.me/MUSICBOT_OWNER) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
@@ -75,10 +75,10 @@
 For any questions or assistance, feel free to reach out:
 
 - Contact options listed on [this GitHub profile](https://github.com/ArchBots).
-- **Telegram Channel:** [ArchBots](https://t.me/ArchBots)
-- **Telegram Support Group:** [ARCH_SUPPORTS](https://t.me/ARCH_SUPPORTS)
+- **Telegram Channel:** [ArchBots](https://t.me/MUSICBOT_OWNER)
+- **Telegram Support Group:** [BWF_SUPPORTS](https://t.me/BWF_MUSIC1)
 
-Made with ❤️ by [**SAKIL**](https://t.me/YO_UR_OFFICIAL_CRUSH)
+Made with ❤️ by [**SAKIL**](https://t.me/II_ASHISH_GUPTA_IIl)
 
 Developed by:
 **credit**
