@@ -67,7 +67,7 @@
 
 ## Deploy On Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Koch-Dev/Dooker)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KwsMusic/L2RNEWMusic)
 
 
 ## 🏷 Support
@@ -82,5 +82,5 @@ Made with ❤️ by [**SAKIL**](https://t.me/II_ASHISH_GUPTA_IIl)
 
 Developed by:
 **credit**
-- [**YUKKIMUSIC**](https://t.me/YukkiSupport)
-- [**Rudra**](https://t.me/Unknown_hu_m)
+- [**YUKKIMUSIC**](https://t.me/BWF_MUSIC1)
+- [**Rudra**](https://t.me/II_ASHISH_GUPTA_IIl)
